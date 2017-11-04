@@ -112,8 +112,8 @@ npm start
 
 ## Code Directories
 
-* ./src - source code, stays in git repo.
-* ./lib - transpiled ES5 code, not saved in git, gets published to npm.
+* `./src` -- source code, stays in git repo.
+* `./lib` -- transpiled ES5 code, not saved in git, gets published to npm.
 
 ## License
 
