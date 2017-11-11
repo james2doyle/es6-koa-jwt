@@ -75,6 +75,6 @@ export default function main() {
 if (require.main === module) {
   app.listen(3000, 'localhost');
   if (process.env.NODE_ENV === 'local') {
-    console.log('application running at localhost:3000');
+    console.log('application running at http://localhost:3000');
   }
 }
